@@ -36,7 +36,7 @@ We have chosen to use the 2018 dataset as the data post 2019 is affected by the 
 
 5.) Scikitlearn
 - Stratified Sampling
-- Naïve Bayes Classification
+- Categorical Naïve Bayes Classification
 
 6.) KModes
 - KModes clustering
