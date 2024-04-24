@@ -12,8 +12,9 @@ Group 8 (FDAD) 2024
 ## Authors
 
 - Devlin Waluja [@devlinwaluja](https://www.github.com/devlinwaluja)
+    - Data Cleaning, Sampling, Kmodes, Github Repo, Video Presentation
 - Jun Long Lim [@mrbeastok](https://www.github.com/mrbeastok)
-
+    - Data Extraction, Visualization, Naieve Bayes Clustering, Video Slides
 
 ## Descripton
 
