@@ -7,7 +7,7 @@ Data Science and Artificial Intelligence
 
 Group 8 (FDAD) 2024
 
-
+## Video: (https://youtu.be/Rx2C2Cj71wo)
 
 ## Authors
 
