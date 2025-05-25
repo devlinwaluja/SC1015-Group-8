@@ -13,7 +13,7 @@ Group 8 (FDAD) 2024
 
 - Devlin Waluja [@devlinwaluja](https://www.github.com/devlinwaluja)
     - Data Cleaning, Stratified Sampling, Kmodes, Github Repo, Video Presentation
-- Jun Long Lim [@mrbeastok](https://www.github.com/mrbeastok)
+- Jun Long Lim [@jl00022](https://github.com/jl00022)
     - Data Extraction, Visualization, Naieve Bayes Clustering, Video Slides
 
 ## Descripton
